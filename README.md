@@ -6,7 +6,7 @@ Un'applicazione concreta di questa idea è il **parental control**: poter ricono
 
 Il progetto integra due componenti principali:
 * **Classificazione:** Un modello di Machine Learning basato su feature estratte dal traffico di download, in grado di identificare l'applicazione con un'accuratezza dell'83.3%.
-* **Enforcement (Sperimentale):** Una pipeline automatizzata che, previa analisi dei domini SNI (Server Name Indication), applica regole di blocco mirate, individuate tramite l'analisi dei domini SNI.
+* **Enforcement:** Una pipeline automatizzata che, previa analisi dei domini SNI (Server Name Indication), applica regole di blocco mirate, individuate tramite l'analisi dei domini SNI.
 ## Nota Metodologica sull'Enforcement
 Il sistema di enforcement non opera in modo automatico su qualsiasi applicazione, ma segue un protocollo sperimentale basato su due fasi distinte di cattura:
 1. **Fase di Classificazione:** Effettuata su catture di download, dove il traffico è dominato dagli store applicativi.
