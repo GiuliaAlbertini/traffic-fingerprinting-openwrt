@@ -1,0 +1,7 @@
+timestamp,cattura,app_riconosciuta,confidenza,in_policy,azione,esito
+2026-08-19T17:01:04,cattura_ikea_6.pcap,IKEA,0.73,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,dry_run (nessun comando eseguito realmente)
+2026-08-19T15:52:45,cattura_ikea_5.pcap,IKEA,0.56,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,eseguito con successo: OAF: regole ATTIVE (ID: 9010 9011 9012 9013 9014 9015) — blocco applicato
+2026-08-19T15:49:50,cattura_ikea_4.pcap,IKEA,0.86,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,eseguito con successo: OAF: regole ATTIVE (ID: 9010 9011 9012 9013 9014 9015) — blocco applicato
+2026-08-18T17:46:26,cattura_ikea_3.pcap,IKEA,0.76,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,dry_run (nessun comando eseguito realmente)
+2026-08-18T15:57:48,cattura_ikea_2.pcap,IKEA,0.97,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,dry_run (nessun comando eseguito realmente)
+2026-08-18T15:57:35,cattura_ikea_1.pcap,IKEA,0.93,"blocco per-app (dominio specifico, verificato)",9010 9011 9012 9013 9014 9015,dry_run (nessun comando eseguito realmente)
